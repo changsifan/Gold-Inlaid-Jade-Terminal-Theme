@@ -1,0 +1,23 @@
+{
+  "name": "Gold Inlaid Jade",
+  "background": "#12563D",
+  "foreground": "#E0C637",
+  "cursorColor": "#E0C637",
+  "selectionBackground": "#206F52",
+  "black": "#083926",
+  "red": "#E0C637",
+  "green": "#E0C637",
+  "yellow": "#E0C637",
+  "blue": "#E0C637",
+  "purple": "#E0C637",
+  "cyan": "#E0C637",
+  "white": "#E0C637",
+  "brightBlack": "#083926",
+  "brightRed": "#E0C637",
+  "brightGreen": "#E0C637",
+  "brightYellow": "#E0C637",
+  "brightBlue": "#E0C637",
+  "brightPurple": "#E0C637",
+  "brightCyan": "#E0C637",
+  "brightWhite": "#E0C637"
+}

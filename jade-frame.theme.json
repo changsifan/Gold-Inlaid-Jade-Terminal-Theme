@@ -1,0 +1,20 @@
+{
+  "name": "Jade Frame",
+  "tab": {
+    "background": "#12563DFF",
+    "iconStyle": "default",
+    "showCloseButton": "always",
+    "unfocusedBackground": "#104A34FF"
+  },
+  "tabRow": {
+    "background": "#12563DFF",
+    "unfocusedBackground": "#12563DFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "experimental.rainbowFrame": false,
+    "frame": "#12563DFF",
+    "unfocusedFrame": "#12563DFF",
+    "useMica": false
+  }
+}
