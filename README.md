@@ -47,6 +47,19 @@ The idea is two colors only: jade green under, gold leaf on. All ANSI colors col
 
 > 主题（`theme`、`themes`）需要 Windows Terminal 1.22 及以上。旧版本只用配色方案也完全够看。
 
+## 窗口与字体 / Window & Font
+
+金镶玉常用的窗口参数，见 [`settings.snippet.json`](./settings.snippet.json)：
+
+| 项目 / Setting | 值 / Value |
+|---|---|
+| 字号 Font size | `10` |
+| 行高 Cell height | `1.5` |
+| 窗口初始尺寸 | `80` 列 × `45` 行 |
+| 字体名 | 未指定，用 Windows Terminal 默认（Cascadia Mono） |
+
+> 字偏小、行偏松是这组参数的特点：一屏能塞进 45 行日志，字不挤。嫌小就把 `size` 提到 11–12。
+
 ## 姊妹项目 / Sister project
 
 同样出自这个终端：[黑客帝国 / Make your terminal as cool as The Matrix](https://github.com/changsifan/Make-your-terminal-as-cool-as-The-Matrix)
