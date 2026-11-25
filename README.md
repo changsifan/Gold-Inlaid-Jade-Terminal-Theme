@@ -1,4 +1,4 @@
-# 金镶玉 · Gold Inlaid Jade
+# 常思凡 · 金镶玉 Gold Inlaid Jade
 
 墨绿为底，鎏金为字 —— 一套中国风的 **Windows Terminal** 配色。
 
