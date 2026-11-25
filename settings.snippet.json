@@ -1,14 +1,14 @@
 {
   "profiles": {
     "defaults": {
-      "colorScheme": "Gold and Jade Fill the Hall",
+      "colorScheme": "Gold Inlaid Jade",
       "font": {
         "size": 10,
         "cellHeight": "1.5"
       }
     }
   },
-  "theme": "Jade Hall",
+  "theme": "Jade Frame",
   "initialCols": 80,
   "initialRows": 45
 }
